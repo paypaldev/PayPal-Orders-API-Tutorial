@@ -18,7 +18,7 @@
   <hr />
 </div>
 
-# PayPal-Orders-API-Sample
+# PayPal-Orders-API-Tutorial
 
 This is the sample code from the video, [How to Call the Orders API from a Node.js App](https://youtu.be/fs2VjYS0riE).
 
@@ -27,7 +27,7 @@ The relevant documentation can be found here: https://developer.paypal.com/docs/
 ## Get Started
 
 1. Clone the repo. See [About remote repositories](https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories) for more info.
-2. Open the `PayPal-Orders-API-Sample` directory in your code editor
+2. Open the `PayPal-Orders-API-Tutorial` directory in your code editor
 3. Install dependencies
 
    ```
